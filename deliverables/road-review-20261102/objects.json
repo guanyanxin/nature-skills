@@ -1,0 +1,114 @@
+[
+  {
+    "page": 1,
+    "native_textboxes": 10,
+    "paper_images": 0,
+    "template_images": 1,
+    "total_shapes": 14
+  },
+  {
+    "page": 2,
+    "native_textboxes": 16,
+    "paper_images": 0,
+    "template_images": 1,
+    "total_shapes": 25
+  },
+  {
+    "page": 3,
+    "native_textboxes": 13,
+    "paper_images": 1,
+    "template_images": 1,
+    "total_shapes": 21
+  },
+  {
+    "page": 4,
+    "native_textboxes": 13,
+    "paper_images": 1,
+    "template_images": 1,
+    "total_shapes": 21
+  },
+  {
+    "page": 5,
+    "native_textboxes": 11,
+    "paper_images": 1,
+    "template_images": 1,
+    "total_shapes": 18
+  },
+  {
+    "page": 6,
+    "native_textboxes": 16,
+    "paper_images": 0,
+    "template_images": 1,
+    "total_shapes": 25
+  },
+  {
+    "page": 7,
+    "native_textboxes": 12,
+    "paper_images": 1,
+    "template_images": 1,
+    "total_shapes": 19
+  },
+  {
+    "page": 8,
+    "native_textboxes": 13,
+    "paper_images": 1,
+    "template_images": 1,
+    "total_shapes": 20
+  },
+  {
+    "page": 9,
+    "native_textboxes": 8,
+    "paper_images": 1,
+    "template_images": 1,
+    "total_shapes": 16
+  },
+  {
+    "page": 10,
+    "native_textboxes": 13,
+    "paper_images": 1,
+    "template_images": 1,
+    "total_shapes": 21
+  },
+  {
+    "page": 11,
+    "native_textboxes": 19,
+    "paper_images": 0,
+    "template_images": 1,
+    "total_shapes": 29
+  },
+  {
+    "page": 12,
+    "native_textboxes": 9,
+    "paper_images": 1,
+    "template_images": 1,
+    "total_shapes": 16
+  },
+  {
+    "page": 13,
+    "native_textboxes": 12,
+    "paper_images": 1,
+    "template_images": 1,
+    "total_shapes": 20
+  },
+  {
+    "page": 14,
+    "native_textboxes": 18,
+    "paper_images": 0,
+    "template_images": 1,
+    "total_shapes": 27
+  },
+  {
+    "page": 15,
+    "native_textboxes": 18,
+    "paper_images": 0,
+    "template_images": 1,
+    "total_shapes": 29
+  },
+  {
+    "page": 16,
+    "native_textboxes": 16,
+    "paper_images": 0,
+    "template_images": 1,
+    "total_shapes": 22
+  }
+]

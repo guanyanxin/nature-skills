@@ -43,3 +43,9 @@
 [下载16页SVG](./road_review_svg_selected.zip?raw=true) · [SVG页面总览](./road_review_svg_contact.jpg) · [使用与校准说明](./SVG使用与校准说明.md)
 
 该SVG对应用户明确选定的0a1f909版本，未使用后续居中版。正文视觉行使用原生SVG文字，9幅论文原图完整内嵌；尚未完成Microsoft PowerPoint插入态与转形态测试。
+
+## 原生可编辑PPTX与备用PDF
+
+[下载可编辑PPTX](./road_review_editable.pptx?raw=true) · [下载备用PDF](./road_review_backup.pdf?raw=true) · [PPTX渲染总览](./pptx_render_contact.jpg) · [检查说明](./qa_report.md)
+
+基于用户选定0a1f909版HTML直接制作原生文本框及完整论文图片，无需SVG转形。16页均含讲解备注。使用LibreOffice导出和检查，未声称Microsoft PowerPoint实测。
