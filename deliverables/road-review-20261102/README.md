@@ -37,3 +37,9 @@
 ## 标题与图文对齐复核
 
 标题在标签与校徽之间水平、垂直居中；标签与标题栏等高；图注左边缘与实际显示的图片对齐。16页浏览器检查通过，相关位置误差均小于1px。检查记录在ZIP内review/alignment_checks.json。目标设备字体仍需核对。
+
+## SVG 阶段：基于用户选定的0a1f909版HTML
+
+[下载16页SVG](./road_review_svg_selected.zip?raw=true) · [SVG页面总览](./road_review_svg_contact.jpg) · [使用与校准说明](./SVG使用与校准说明.md)
+
+该SVG对应用户明确选定的0a1f909版本，未使用后续居中版。正文视觉行使用原生SVG文字，9幅论文原图完整内嵌；尚未完成Microsoft PowerPoint插入态与转形态测试。
